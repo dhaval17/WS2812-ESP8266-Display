@@ -6,4 +6,8 @@ This repository contains an Arduino sketch file that controls 4 units of 8x8 WS2
 
 ## Purpose
 
-The main purpose of this project is to display time in HHMM format, with each 8x8 unit displaying a single character.
+The main purpose of this project is to display time in HHMM format, with each 8x8 unit displaying a single character, along with temperature and humidty bars at the bottom.
+
+## Image
+
+![image](https://raw.githubusercontent.com/dhaval17/WS2812-ESP8266-Display/refs/heads/main/IMG_2242.jpg)
